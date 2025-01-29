@@ -1,6 +1,6 @@
 import numpy as np
 from math import sin
-from warm_up import functions as fn
+import functions as fn
 
 # 1. Linear function
 # Finding the root of f(x)=x-2 (expected root is x=2)
