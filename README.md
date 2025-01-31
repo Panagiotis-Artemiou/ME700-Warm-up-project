@@ -9,7 +9,7 @@ conda create --name bisection-environment python=3.12
 Once the environment has been created, activate it:
 
 ```bash
-conda activate bisection-method-env
+conda activate bisection-environment
 ```
 Ensure that pip is using the most up to date version of setuptools:
 ```bash
