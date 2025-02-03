@@ -1,6 +1,6 @@
 import numpy as np
 from math import sin
-from bisectionmethod import functions as fn
+from src import functions as fn
 
 # 1. Linear function
 # Finding the root of f(x)=x-2 (expected root is x=2)

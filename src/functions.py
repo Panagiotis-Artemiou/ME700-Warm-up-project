@@ -22,7 +22,7 @@ def bisection_function(f, a, b, tol=1e-6, max_iter=1000):
     fa, fb = f(a), f(b)
     check_signs(a, b, fa, fb)
     
-    # Save values for plots
+    # Save values for potential plots
     a_list = []
     b_list = []
     fa_list = []
